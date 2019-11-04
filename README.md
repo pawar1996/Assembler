@@ -1,2 +1,0 @@
-# Assembler
-One pass assembler
